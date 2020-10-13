@@ -1,0 +1,288 @@
+FROM_TAG,TO_TAG,RELEVANT_IMPRESSIONS_DAILY,TO_CHANNELS_TOTAL
+AntiSJW,Mainstream News,22964280.2467491,874
+AntiSJW,PartisanRight,22483480.3305016,2397
+AntiSJW,AntiSJW,18649285.2237019,1359
+AntiSJW,PartisanLeft,5372894.09468507,525
+AntiSJW,Libertarian,2184281.05240589,148
+AntiSJW,LateNightTalkShow,2000851.0539111,14
+AntiSJW,ReligiousConservative,1904970.66544665,706
+AntiSJW,SocialJustice,1215522.15323089,611
+AntiSJW,Socialist,223327.249663422,174
+AntiSJW,Conspiracy,211628.709205901,2078
+AntiSJW,AntiTheist,148668.180172995,225
+AntiSJW,MRA,96146.666097472,109
+AntiSJW,Black,62750.5226559,264
+AntiSJW,LGBT,60958.825199532,30
+AntiSJW,WhiteIdentitarian,15179.574179334,107
+AntiSJW,QAnon,12168.572469101,356
+AntiSJW,OrganizedReligion,434.62367864,4
+AntiTheist,PartisanLeft,1469669.56873723,433
+AntiTheist,Mainstream News,1182177.3967084,684
+AntiTheist,LateNightTalkShow,665337.223481666,13
+AntiTheist,PartisanRight,444893.234161623,1876
+AntiTheist,AntiSJW,397609.997547525,1074
+AntiTheist,SocialJustice,345130.138287794,466
+AntiTheist,AntiTheist,272281.797213537,217
+AntiTheist,Socialist,49251.292753594,137
+AntiTheist,Libertarian,48120.926796933,103
+AntiTheist,ReligiousConservative,37576.736081114,630
+AntiTheist,Conspiracy,12508.847724373,1675
+AntiTheist,LGBT,7436.730876769,21
+AntiTheist,Black,6663.765038361,209
+AntiTheist,MRA,777.933005149,86
+AntiTheist,WhiteIdentitarian,333.263066248,78
+AntiTheist,QAnon,273.53796525,277
+AntiTheist,OrganizedReligion,79.571039797,3
+Black,Mainstream News,912206.458568439,800
+Black,PartisanLeft,818147.817948942,460
+Black,SocialJustice,320349.116220282,510
+Black,LateNightTalkShow,298418.796255122,14
+Black,PartisanRight,269452.016340895,2039
+Black,Black,183861.544387732,281
+Black,AntiSJW,131145.413708404,1020
+Black,Conspiracy,15619.771088568,1749
+Black,ReligiousConservative,15536.800802875,655
+Black,Libertarian,10362.262770273,118
+Black,Socialist,3098.78041006,114
+Black,AntiTheist,1685.795043381,146
+Black,MRA,967.536748695,94
+Black,QAnon,457.226975855,319
+Black,LGBT,433.180955768,17
+Black,WhiteIdentitarian,198.059061814,72
+Black,OrganizedReligion,85.550970323,5
+Conspiracy,Mainstream News,12889300.3714043,872
+Conspiracy,PartisanRight,12420118.5438971,2418
+Conspiracy,PartisanLeft,1982609.0828679,516
+Conspiracy,AntiSJW,982414.784921863,1272
+Conspiracy,Conspiracy,715078.692444365,2212
+Conspiracy,Libertarian,655881.071049609,148
+Conspiracy,ReligiousConservative,562450.357626569,730
+Conspiracy,LateNightTalkShow,368067.896104742,14
+Conspiracy,SocialJustice,354710.33868211,593
+Conspiracy,QAnon,160330.775882174,359
+Conspiracy,Socialist,34580.970296588,161
+Conspiracy,Black,32759.060409053,277
+Conspiracy,MRA,18374.104027811,106
+Conspiracy,AntiTheist,17522.469019611,211
+Conspiracy,OrganizedReligion,14899.365996137,5
+Conspiracy,WhiteIdentitarian,2093.970610994,97
+Conspiracy,LGBT,1413.508923257,30
+LGBT,AntiSJW,132848.497727505,623
+LGBT,SocialJustice,105214.682774203,304
+LGBT,PartisanLeft,72314.543639524,238
+LGBT,Socialist,54191.988853615,108
+LGBT,LGBT,28734.641057515,29
+LGBT,PartisanRight,24608.930098732,583
+LGBT,Mainstream News,24281.409872775,347
+LGBT,Libertarian,9184.083215977,46
+LGBT,LateNightTalkShow,8265.71952993,9
+LGBT,AntiTheist,8162.449078713,115
+LGBT,ReligiousConservative,6290.197464474,150
+LGBT,Black,1121.834922367,65
+LGBT,Conspiracy,491.197250347,269
+LGBT,WhiteIdentitarian,309.65442737,44
+LGBT,QAnon,49.59879758,55
+LGBT,MRA,31.632589439,54
+LateNightTalkShow,PartisanLeft,23842718.5591193,443
+LateNightTalkShow,LateNightTalkShow,17814733.7741279,14
+LateNightTalkShow,Mainstream News,7005922.88558239,744
+LateNightTalkShow,SocialJustice,1821527.67092621,458
+LateNightTalkShow,PartisanRight,799930.547669023,1900
+LateNightTalkShow,AntiSJW,183952.108668066,984
+LateNightTalkShow,Black,37938.344659464,201
+LateNightTalkShow,ReligiousConservative,26667.695944721,430
+LateNightTalkShow,AntiTheist,11813.530536538,141
+LateNightTalkShow,Conspiracy,10914.339806215,1556
+LateNightTalkShow,Socialist,10224.070165075,123
+LateNightTalkShow,Libertarian,9125.938780634,102
+LateNightTalkShow,QAnon,348.621483889,332
+LateNightTalkShow,WhiteIdentitarian,252.843509017,82
+LateNightTalkShow,MRA,181.670159165,79
+LateNightTalkShow,LGBT,95.426837254,17
+LateNightTalkShow,OrganizedReligion,19.518795306,1
+Libertarian,Mainstream News,2818900.22405955,813
+Libertarian,PartisanRight,2715504.03424433,2155
+Libertarian,AntiSJW,1153350.59521578,1116
+Libertarian,Libertarian,849793.172650894,151
+Libertarian,PartisanLeft,671053.492477122,456
+Libertarian,ReligiousConservative,236546.173953438,593
+Libertarian,SocialJustice,209840.748475659,468
+Libertarian,LateNightTalkShow,173033.867503095,13
+Libertarian,Conspiracy,49992.618623414,1745
+Libertarian,Socialist,24025.050291921,141
+Libertarian,QAnon,17259.419616025,342
+Libertarian,AntiTheist,11954.641954164,173
+Libertarian,Black,6361.0711925,208
+Libertarian,MRA,2878.656764413,97
+Libertarian,WhiteIdentitarian,1305.314456847,90
+Libertarian,OrganizedReligion,826.790316848,4
+Libertarian,LGBT,508.281788587,20
+MRA,AntiSJW,186305.945946314,976
+MRA,Mainstream News,133403.003784148,625
+MRA,PartisanRight,116192.491377018,1481
+MRA,MRA,108806.601128645,104
+MRA,PartisanLeft,50377.18335007,353
+MRA,ReligiousConservative,34912.201918839,349
+MRA,SocialJustice,24488.686646397,377
+MRA,Libertarian,22468.982856337,93
+MRA,LateNightTalkShow,12034.671464144,11
+MRA,Conspiracy,7802.767613309,946
+MRA,AntiTheist,3070.361528499,122
+MRA,Socialist,2908.7729963,117
+MRA,Black,726.832160905,142
+MRA,WhiteIdentitarian,531.091216357,63
+MRA,LGBT,425.703466552,19
+MRA,QAnon,163.762636901,242
+MRA,OrganizedReligion,3.384935845,2
+Mainstream News,Mainstream News,131768120.913689,893
+Mainstream News,PartisanLeft,76307301.6990936,531
+Mainstream News,PartisanRight,28445743.3680052,2414
+Mainstream News,LateNightTalkShow,25562378.4396618,14
+Mainstream News,SocialJustice,8591475.45404771,605
+Mainstream News,AntiSJW,1453558.51101228,1279
+Mainstream News,Libertarian,986392.548598535,147
+Mainstream News,ReligiousConservative,349363.376924149,683
+Mainstream News,Black,290208.235683581,264
+Mainstream News,Conspiracy,229647.146501831,2078
+Mainstream News,Socialist,82449.182574069,172
+Mainstream News,AntiTheist,43479.033238767,191
+Mainstream News,QAnon,21598.73977092,357
+Mainstream News,MRA,15544.705845887,102
+Mainstream News,OrganizedReligion,2849.473182689,4
+Mainstream News,WhiteIdentitarian,1432.336575895,101
+Mainstream News,LGBT,1294.851642901,30
+OrganizedReligion,PartisanRight,10623.659710532,775
+OrganizedReligion,ReligiousConservative,7875.809391507,433
+OrganizedReligion,Libertarian,1516.722363841,22
+OrganizedReligion,Conspiracy,862.599137366,811
+OrganizedReligion,Mainstream News,766.306724692,124
+OrganizedReligion,AntiSJW,525.340313823,130
+OrganizedReligion,QAnon,319.775542736,158
+OrganizedReligion,Black,5.155368334,56
+OrganizedReligion,AntiTheist,4.460440766,32
+OrganizedReligion,PartisanLeft,3.396121092,46
+OrganizedReligion,WhiteIdentitarian,0.1307617862,13
+OrganizedReligion,OrganizedReligion,0.1149328533,3
+OrganizedReligion,MRA,0.09708047425,3
+OrganizedReligion,SocialJustice,0.06715455977,49
+OrganizedReligion,Socialist,0.01438913703,7
+OrganizedReligion,LateNightTalkShow,0,2
+PartisanLeft,PartisanLeft,90912374.841409,532
+PartisanLeft,Mainstream News,77788487.622178,877
+PartisanLeft,LateNightTalkShow,43410377.6297376,14
+PartisanLeft,PartisanRight,14511450.6918244,2368
+PartisanLeft,SocialJustice,9598055.66419457,612
+PartisanLeft,AntiSJW,1615298.63755978,1302
+PartisanLeft,Libertarian,400979.192866257,147
+PartisanLeft,Socialist,386400.375562113,169
+PartisanLeft,Black,326475.055587376,263
+PartisanLeft,Conspiracy,182882.087623088,2046
+PartisanLeft,ReligiousConservative,179003.305275793,667
+PartisanLeft,AntiTheist,116794.583637475,203
+PartisanLeft,MRA,14982.728473737,102
+PartisanLeft,LGBT,9551.786452575,30
+PartisanLeft,QAnon,8963.155038368,357
+PartisanLeft,WhiteIdentitarian,926.300834765,94
+PartisanLeft,OrganizedReligion,321.805872991,4
+PartisanRight,Mainstream News,55472143.2046772,889
+PartisanRight,PartisanRight,49594626.7708291,2476
+PartisanRight,PartisanLeft,14818631.349264,533
+PartisanRight,AntiSJW,7799079.41588713,1344
+PartisanRight,LateNightTalkShow,3949998.4159433,14
+PartisanRight,Libertarian,3714927.9842086,154
+PartisanRight,ReligiousConservative,2805389.22142948,726
+PartisanRight,SocialJustice,1684365.69244518,615
+PartisanRight,Conspiracy,703187.954489868,2182
+PartisanRight,QAnon,172943.668041053,362
+PartisanRight,Socialist,128183.287398565,173
+PartisanRight,Black,107954.237662997,279
+PartisanRight,MRA,77970.156655951,106
+PartisanRight,AntiTheist,56420.241230424,219
+PartisanRight,OrganizedReligion,44637.825585741,5
+PartisanRight,LGBT,16114.430500714,29
+PartisanRight,WhiteIdentitarian,14047.605574901,101
+QAnon,PartisanRight,5872664.16412699,2117
+QAnon,Mainstream News,5731207.87364082,784
+QAnon,PartisanLeft,509185.455255309,435
+QAnon,Libertarian,363823.623073298,132
+QAnon,AntiSJW,311779.064162932,966
+QAnon,Conspiracy,247864.885689448,1864
+QAnon,QAnon,139882.08561845,351
+QAnon,ReligiousConservative,104432.743488141,635
+QAnon,SocialJustice,61384.391758061,440
+QAnon,LateNightTalkShow,57178.11763835,13
+QAnon,Socialist,11880.246373239,122
+QAnon,Black,8120.040531671,203
+QAnon,MRA,5883.2419694,79
+QAnon,AntiTheist,3341.750879786,153
+QAnon,OrganizedReligion,2395.138293614,4
+QAnon,WhiteIdentitarian,507.305390004,74
+QAnon,LGBT,33.059550178,16
+ReligiousConservative,PartisanRight,6770966.63542221,2287
+ReligiousConservative,Mainstream News,6413674.03841265,831
+ReligiousConservative,AntiSJW,1984882.15393584,1178
+ReligiousConservative,PartisanLeft,1367522.85374187,476
+ReligiousConservative,ReligiousConservative,1055519.58456762,725
+ReligiousConservative,Libertarian,1016221.66717335,136
+ReligiousConservative,LateNightTalkShow,360224.746345476,13
+ReligiousConservative,SocialJustice,259530.406129937,538
+ReligiousConservative,Conspiracy,197655.67939163,2047
+ReligiousConservative,OrganizedReligion,33723.23908811,4
+ReligiousConservative,Socialist,27320.359829455,141
+ReligiousConservative,AntiTheist,20876.730248831,197
+ReligiousConservative,MRA,19216.243830477,101
+ReligiousConservative,Black,18110.037393017,268
+ReligiousConservative,QAnon,10171.040130027,351
+ReligiousConservative,LGBT,1217.32368101,24
+ReligiousConservative,WhiteIdentitarian,1153.187383928,90
+SocialJustice,PartisanLeft,18605436.4438453,529
+SocialJustice,Mainstream News,16383001.8622811,868
+SocialJustice,LateNightTalkShow,6410595.55605482,14
+SocialJustice,SocialJustice,4038650.79301386,621
+SocialJustice,PartisanRight,2408239.28540059,2315
+SocialJustice,AntiSJW,520327.4239535,1288
+SocialJustice,Socialist,438466.212674401,171
+SocialJustice,Black,220294.429380449,278
+SocialJustice,Libertarian,110798.661028886,141
+SocialJustice,Conspiracy,67322.516596007,1986
+SocialJustice,ReligiousConservative,64845.527156633,667
+SocialJustice,AntiTheist,61834.584070986,210
+SocialJustice,LGBT,24975.743238811,30
+SocialJustice,MRA,4189.918203029,101
+SocialJustice,QAnon,2593.601360459,349
+SocialJustice,WhiteIdentitarian,804.488469603,94
+SocialJustice,OrganizedReligion,256.158862988,3
+Socialist,PartisanLeft,599600.543868685,473
+Socialist,SocialJustice,413017.887704553,526
+Socialist,Mainstream News,259446.794385319,763
+Socialist,Socialist,253134.275173539,170
+Socialist,AntiSJW,222493.952575493,1149
+Socialist,LateNightTalkShow,170999.322053228,14
+Socialist,PartisanRight,85224.757319407,1793
+Socialist,Libertarian,40785.678720483,113
+Socialist,AntiTheist,17528.59401491,175
+Socialist,ReligiousConservative,17433.024915974,439
+Socialist,LGBT,16673.429877433,27
+Socialist,Conspiracy,5375.656839883,1459
+Socialist,Black,2037.20442255,190
+Socialist,WhiteIdentitarian,635.443747399,91
+Socialist,MRA,545.090735091,88
+Socialist,QAnon,262.604388424,299
+Socialist,OrganizedReligion,14.45925591,2
+WhiteIdentitarian,Mainstream News,311816.190589525,686
+WhiteIdentitarian,PartisanRight,224857.797858021,1386
+WhiteIdentitarian,AntiSJW,177115.202345849,980
+WhiteIdentitarian,Libertarian,90181.643073296,99
+WhiteIdentitarian,PartisanLeft,73105.735426611,342
+WhiteIdentitarian,SocialJustice,32524.011847928,343
+WhiteIdentitarian,ReligiousConservative,12598.789573372,362
+WhiteIdentitarian,LateNightTalkShow,12069.15307897,12
+WhiteIdentitarian,Socialist,10930.403214849,127
+WhiteIdentitarian,Conspiracy,7908.779564669,881
+WhiteIdentitarian,WhiteIdentitarian,5280.940145224,91
+WhiteIdentitarian,AntiTheist,3711.596638609,127
+WhiteIdentitarian,MRA,1863.366807592,81
+WhiteIdentitarian,Black,1346.523604332,121
+WhiteIdentitarian,LGBT,639.396568064,12
+WhiteIdentitarian,QAnon,335.951716108,164
+WhiteIdentitarian,OrganizedReligion,13.455327653,4
