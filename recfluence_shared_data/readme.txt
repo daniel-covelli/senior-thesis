@@ -1,16 +1,16 @@
-Recfluence data generated 2020-10-09
-
-*vis_category_recs*
-  aggregate recommendations between all combinations of the categories available on recfluence.net
+Recfluence data generated 2020-10-19
 
 *ttube_channels*
   
 
-*channel_review*
-  each reviewers classifications and the calculated majority view (data entered independently from reviewers)
-
 *vis_channel_stats*
   data combined from classifications + information (from the YouTube API)
+
+*vis_category_recs*
+  aggregate recommendations between all combinations of the categories available on recfluence.net
+
+*channel_review*
+  each reviewers classifications and the calculated majority view (data entered independently from reviewers)
 
 *channel_review_lists*
   
@@ -33,9 +33,9 @@ Recfluence data generated 2020-10-09
 *class_comments*
   
 
-*us_tests*
+*class_captions*
   
 
-*class_captions*
+*us_tests*
   
         
