@@ -1,3 +1,3 @@
-# Understanding Political Content Recommendaions on YouTube
+# The Politics of YouTube Recommendations
 
 Read me coming soon...
