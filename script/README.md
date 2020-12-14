@@ -1,3 +1,0 @@
-# Recommending Descent: Understanding How Bias and User Behavior Impact the Political Topography of Recommendations on YouTube 📺
-
-Content to be added soon...
