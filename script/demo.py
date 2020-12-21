@@ -257,12 +257,18 @@ class Bot:
         return videos[0]
 
 
-def run_bot(bot):
+def run_bot(bot, topics):
+    """
+    For each given topic, run bot and concatenate
+    encountered videos to recommendations_set.
+
+    @param bot: Bot class instance
+    @param topics: list of starting topics
+    @return: list of results
+    """
     index = 0
-    topics = ['Election', 'Jack Dorsey',
-              'Lil Wayne', 'Moderna', 'Gavin Newsom']
     recommendations_set = []
-    while index < 5:
+    while index < len(topics):
         starter = Starter(topics[index], '/m/05qt0', 10)
         start = starter.find_video()
         bot.set_start(start)
@@ -277,16 +283,16 @@ def run_bot(bot):
 
 def main():
     political_bot_left = Bot('Left', 4, 10)
-
     political_bot_right = Bot('Right', 4, 10)
-
     political_bot_neutral = Bot('Neutral', 4, 10)
 
-    recomms_neutral = run_bot(political_bot_neutral)
+    # change query string each iteration
+    topics = ['Election', 'Jack Dorsey',
+              'Lil Wayne', 'Moderna', 'Gavin Newsom']
 
-    recomms_left = run_bot(political_bot_left)
-
-    recomms_right = run_bot(political_bot_right)
+    recomms_neutral = run_bot(political_bot_neutral, topics)
+    recomms_left = run_bot(political_bot_left, topics)
+    recomms_right = run_bot(political_bot_right, topics)
 
     df_recomms_left = pd.DataFrame(recomms_left)
     df_recomms_right = pd.DataFrame(recomms_right)
