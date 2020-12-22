@@ -52,7 +52,7 @@ This project has three major findings.
 
 ---
 
-![](images/fig_3_2.jpeg)
+![](images/fig_3_2.png)
 
 ### Discussion
 
