@@ -26,7 +26,7 @@ Each of the three bots in this paper use a similar random walk algorithm. The al
 6. <b>Repeat</b>: Catagorize, pick, collect, and request 4 more times
 </pre>
 
-For more information on the methods used in this repository, reference the methods section of the [thesis paper](thesis.pdf). Categorizations for this project were provided by Mark Ledwich and Anna Zaitsev, [Recfluence](https://github.com/markledwich2/Recfluence#data) Channel Classification Data Set.
+For more information on the methods used in this repository, reference the methods section of the [thesis paper](thesis.pdf). Categorizations for this project were provided by Mark Ledwich and Anna Zaitsev's, [Recfluence Channel Classification Data Set](https://github.com/markledwich2/Recfluence#data).
 
 ### Findings
 
