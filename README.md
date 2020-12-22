@@ -13,14 +13,16 @@ This paper attempts to determine the underlying causes of recommendation discrep
 
 The goal of this research is to capture the effect of user behavior on the output of YouTube’s recommendation algorithms using autonomous agents as proxies for actual users. These bots were designed to mock the content consumption and browsing behaviors of politically biased users. One bot represents a right wing partisan. This bot search’s for videos that have the highest level of right wing bias. Another bot represents a left wing partisan. This bot search’s for videos that have the highest level of left wing bias. Another bot will represent a content consumer with no political bias.
 
+#### Algorithm
+
 Each of the three bots in this paper use a similar random walk algorithm. The algorithm is described below:
 
 <pre>
-1. <b>Search</b>: Enter search query for list of starting videos
+1. <b>Search</b>: Enter search query for a list of starting videos
 2. <b>Categorize</b>: Catagorize each video based on its political content
-3. <b>Pick</b>: Pick the video with greatest level of favorable political bias (for the Neutral Bot pick the first video)
+3. <b>Pick</b>: Pick the video with greatest level of favorable political bias
 4. <b>Collect</b>: Collect meta-data for videos
-5. <b>Request</b>: Request 10 recommendations from this pick
+5. <b>Request</b>: Request 10 recommendations from the pick
 6. <b>Repeat</b>: Catagorize, pick, collect, and request 4 more times
 </pre>
 
