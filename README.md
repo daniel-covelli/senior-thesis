@@ -32,10 +32,6 @@ For more information on the methods used in this repository, reference the metho
 
 This project has three major findings.
 
-1. Left/Right Network Topologies
-2. Divergent Recommendation Trends
-3. Recommendation Catagory Proportions
-
 #### Left/Right Network Topologies
 
 ---
