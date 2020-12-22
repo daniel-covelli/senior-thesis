@@ -16,11 +16,11 @@ The goal of this paper is to capture the effect of user behavior on the output o
 Each of the three bots in this paper use a similar random walk algorithm. The algorithm is described below:
 
 <pre>
-- <b>Search</b>: Lorum Ipsum
-- **Categorize**:
-- **Pick**:
-- **Request**:
-- **Repeat**:
+1. <b>Search</b>: Enter search query for list of starting videos
+2. <b>Categorize</b>: Catagorize each video based on its political content
+3. <b>Pick</b>: Pick the video with greatest level of favorable political bias (for the Neutral Bot pick the first video)
+4. <b>Request</b>: Request 10 recommendations from this pick
+5. <b>Repeat</b>: Catagorize, pick, and request 4 more times
 </pre>
 
 As Kanye West said:
