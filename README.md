@@ -15,13 +15,13 @@ The goal of this paper is to capture the effect of user behavior on the output o
 
 Each of the three bots in this paper use a similar random walk algorithm. The algorithm is described below:
 
-```
-- __Search__: Lorum Ipsum
+<pre>
+- <b>Search</b>: Lorum Ipsum
 - **Categorize**:
 - **Pick**:
 - **Request**:
 - **Repeat**:
-```
+</pre>
 
 As Kanye West said:
 
