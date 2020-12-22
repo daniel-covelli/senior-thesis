@@ -3,7 +3,7 @@
 Recommending Descent is my senior research thesis for UC Berkeley's Interdisiplanry Studies major. The project attempts to characterize the effect that political bias has on YouTube's video recommendation algorithm. This project uses three autonomous agents, or bots, to mock the behavior of a right-leaning, left-leaning, and apolitical YouTube user. The bots access videos through YouTube's [Data API](https://developers.google.com/youtube/v3). This repository contains all the code and data used for the project.
 
 📑 [Thesis Paper](thesis.pdf) &nbsp; &nbsp;
-✏️ [Bibliography](https://www.notion.so/b6f79f445d534b1fa2384c4d74b3d416?v=2fdc95e61e5646c6b9c231844f1fde45) &nbsp; &nbsp;
+✏️ [Works Cited](https://www.notion.so/b6f79f445d534b1fa2384c4d74b3d416?v=2fdc95e61e5646c6b9c231844f1fde45) &nbsp; &nbsp;
 📊 [Recfluence](https://github.com/markledwich2/Recfluence)
 
 ## Abstract
@@ -22,11 +22,11 @@ Each of the three bots in this paper use a similar random walk algorithm. The al
 2. <b>Categorize</b>: Catagorize each video based on its political content
 3. <b>Pick</b>: Pick the video with greatest level of favorable political bias
 4. <b>Collect</b>: Collect meta-data for videos
-5. <b>Request</b>: Request 10 recommendations from the pick
+5. <b>Request</b>: Request 10 recommendations from the selected video
 6. <b>Repeat</b>: Catagorize, pick, collect, and request 4 more times
 </pre>
 
-For more information on the methods used in this repository, reference the methods section of the [thesis paper](thesis.pdf).
+For more information on the methods used in this repository, reference the methods section of the [thesis paper](thesis.pdf). Categorizations for this project were provided by Mark Ledwich and Anna Zaitsev, [Recfluence](https://github.com/markledwich2/Recfluence#data) Channel Classification Data Set.
 
 ### Findings
 
