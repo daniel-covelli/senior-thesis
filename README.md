@@ -16,7 +16,7 @@ The goal of this paper is to capture the effect of user behavior on the output o
 Each of the three bots in this paper use a similar random walk algorithm. The algorithm is described below:
 
 ```
-- **Search**: Lorum Ipsum
+- __Search__: Lorum Ipsum
 - **Categorize**:
 - **Pick**:
 - **Request**:
