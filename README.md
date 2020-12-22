@@ -40,7 +40,7 @@ This project has three major findings.
 
 ---
 
-<img src="images/fig_7_0_1.jpeg" alt="drawing" width="200"/>
+<img src="images/fig_7_0_1.jpeg" alt="drawing" width="600"/>
 <!-- ![](images/fig_7_0_1.jpeg) -->
 
 #### Divergent Recommendation Trends
