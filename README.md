@@ -38,6 +38,8 @@ For more information on the methods used in this repository, reference the metho
 
 This analysis finds that the majority of recommendations to the Right Bot were to Fox News and Fox Business. For the Left Bot, the majority of recommendations were to a more diverse pool of left-leaning media outlets like MSNBC, VOX, and late night shows.
 
+For more, see [1](images/fig_7_1_0.jpeg), [2](images/fig_7_2_1.jpeg), and [3](images/fig_7_3_1.jpeg).
+
 #### Divergent Recommendation Trends
 
 ---
