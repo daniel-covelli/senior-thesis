@@ -2,7 +2,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<a href="thesis.pdf" download>Thesis Paper</a>
+📑 <a href="thesis.pdf" download>Thesis Paper</a>
 
 ### Abstract
 
@@ -23,10 +23,7 @@ Each of the three bots in this paper use a similar random walk algorithm. The al
 5. <b>Repeat</b>: Catagorize, pick, and request 4 more times
 </pre>
 
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
+For more information on the methods used in this repository, reference the methods section of the [thesis paper](thesis.pdf).
 
 ### Findings
 
