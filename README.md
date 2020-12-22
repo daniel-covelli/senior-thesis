@@ -40,7 +40,19 @@ This project has three major findings.
 
 ---
 
-![](images/fig_7_0_1.jpeg 'Title is optional')
+![](images/fig_7_0_1.jpeg)
+
+#### Divergent Recommendation Trends
+
+---
+
+![](images/fig_1_1.jpeg)
+
+#### Recommendation Catagory Propoetions
+
+---
+
+![](images/fig_3_2.jpeg)
 
 ### Discussion
 
