@@ -32,10 +32,15 @@ For more information on the methods used in this repository, reference the metho
 
 This project has three major findings.
 
-1. Bullet list
-   1. Nested bullet
-   2. Sub-nested bullet etc
-2. Bullet list item 2
+1. Left/Right Network Topologies
+2. Divergent Recommendation Trends
+3. Recommendation Catagory Propoetions
+
+#### Left/Right Network Topologies
+
+---
+
+![picture alt](fig_7_0_1.jpeg/200x150 'Title is optional')
 
 ### Discussion
 
