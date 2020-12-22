@@ -34,13 +34,14 @@ This project has three major findings.
 
 1. Left/Right Network Topologies
 2. Divergent Recommendation Trends
-3. Recommendation Catagory Propoetions
+3. Recommendation Catagory Proportions
 
 #### Left/Right Network Topologies
 
 ---
 
-![](images/fig_7_0_1.jpeg)
+<img src="images/fig_7_0_1.jpeg" alt="drawing" width="200"/>
+<!-- ![](images/fig_7_0_1.jpeg) -->
 
 #### Divergent Recommendation Trends
 
@@ -48,7 +49,7 @@ This project has three major findings.
 
 ![](images/fig_1_2.jpeg)
 
-#### Recommendation Catagory Propoetions
+#### Recommendation Catagory Proportions
 
 ---
 
