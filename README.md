@@ -46,7 +46,7 @@ This project has three major findings.
 
 ---
 
-![](images/fig_1_1.jpeg)
+![](images/fig_1_2.jpeg)
 
 #### Recommendation Catagory Propoetions
 
