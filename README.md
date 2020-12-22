@@ -36,7 +36,7 @@ For more information on the methods used in this repository, reference the metho
 
 <img src="images/fig_7_0_1.jpeg" alt="topologies" width="600"/>
 
-This project finds significant differences in the kinds of recommendations offered to the different bots. The majority of recommendations encountered by the Right Bot were to Fox News and Fox Business, with a small amount going to channels in the "Intellectual Dark Web". For the Left Bot, the majority of recommendations were to a more diverse pool of left-leaning media outlets like MSNBC, VOX, and late night shows. The Neutral Bot encountered a host of apolitcal and moderatel political channels.
+This project finds significant differences in the kinds of recommendations offered to the Right, Left, and Neutral Bots. The majority of recommendations encountered by the Right Bot were to Fox News and Fox Business, with a small amount going to channels in the "Intellectual Dark Web". For the Left Bot, the majority of recommendations were to a more diverse pool of left-leaning media outlets like MSNBC, VOX, and late night shows. The Neutral Bot encountered a host of apolitcal and moderatel political channels.
 
 For more analysis see \[[1](images/fig_7_1_0.jpeg)\] \[[2](images/fig_7_2_1.jpeg)\] \[[3](images/fig_7_3_1.jpeg)\].
 
