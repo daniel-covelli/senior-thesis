@@ -40,7 +40,7 @@ This project has three major findings.
 
 ---
 
-![picture alt](fig_7_0_1.jpeg/200x150 'Title is optional')
+[picture alt](fig_7_0_1.jpeg 'Title is optional')
 
 ### Discussion
 
