@@ -40,20 +40,19 @@ This project has three major findings.
 
 ---
 
-<img src="images/fig_7_0_1.jpeg" alt="drawing" width="600"/>
-<!-- ![](images/fig_7_0_1.jpeg) -->
+<img src="images/fig_7_0_1.jpeg" alt="topologies" width="600"/>
 
 #### Divergent Recommendation Trends
 
 ---
 
-![](images/fig_1_2.jpeg)
+<img src="images/fig_1_2.jpeg" alt="trends" width="600"/>
 
 #### Recommendation Catagory Proportions
 
 ---
 
-![](images/fig_3_2.png)
+<img src="images/fig_1_2.jpeg" alt="proportions"/>
 
 ### Discussion
 
