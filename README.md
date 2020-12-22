@@ -52,7 +52,7 @@ This project has three major findings.
 
 ---
 
-<img src="images/fig_1_2.jpeg" alt="proportions"/>
+<img src="images/fig_3_2.png" alt="proportions"/>
 
 ### Discussion
 
