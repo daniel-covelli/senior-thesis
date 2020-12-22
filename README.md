@@ -40,7 +40,7 @@ This project has three major findings.
 
 ---
 
-![](fig_7_0_1.jpeg 'Title is optional')
+![](images/fig_7_0_1.jpeg 'Title is optional')
 
 ### Discussion
 
