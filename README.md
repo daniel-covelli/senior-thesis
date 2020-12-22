@@ -4,7 +4,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 📑 <a href="thesis.pdf" download>Thesis Paper</a>
 <br/>
+<br/>
 ✏️ [Bibliography](https://www.notion.so/b6f79f445d534b1fa2384c4d74b3d416?v=2fdc95e61e5646c6b9c231844f1fde45)
+<br/>
 <br/>
 📊[Recfluence](https://github.com/markledwich2/Recfluence)
 
