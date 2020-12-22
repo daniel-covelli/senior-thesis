@@ -32,10 +32,10 @@ For more information on the methods used in this repository, reference the metho
 
 This project has three major findings.
 
-- Bullet list
-  - Nested bullet
-  - Sub-nested bullet etc
-- Bullet list item 2
+1. Bullet list
+   1. Nested bullet
+   2. Sub-nested bullet etc
+2. Bullet list item 2
 
 ### Discussion
 
