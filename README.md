@@ -30,8 +30,6 @@ For more information on the methods used in this repository, reference the metho
 
 ### Findings
 
-This project has three major findings.
-
 #### Left/Right Network Topologies
 
 ---
