@@ -17,7 +17,7 @@ This project attempts to determine the underlying causes of recommendation discr
 
 The goal of this research is to capture the effect of user behavior on the output of YouTube’s recommendation algorithms using autonomous agents as proxies for actual users. These bots were designed to mock the content consumption and browsing behaviors of politically biased users. One bot represents a right wing partisan. This bot search’s for videos that have the highest level of right wing bias. Another bot represents a left wing partisan. This bot search’s for videos that have the highest level of left wing bias. Another bot will represent a content consumer with no political bias.
 
-Each of the three bots in this paper use a similar random walk algorithm. The algorithm is described below:
+Each of the three bots in this paper use a similar random-walk algorithm. The algorithm is described below:
 
 <pre>
 1. <b>Search</b>: Enter search query for a list of starting videos
@@ -46,7 +46,7 @@ For more see \[[1](images/fig_7_1_0.jpeg 'All Channels Recommended Across All Tr
 
 <img src="images/fig_1_4.jpeg" alt="trends" width="600" title="Divergent Recommendation Trends for the Three Bots"/>
 
-Across 5 steps of the random walks, the three bots received increasingly different video recommendations. The Right Bot recieved recommendations that were increasingly more conservative, as measured by polarization score. The Left Bot recieved recommendations that were increasingly liberal and the Neutral Bot recieved recommendations that were slightly liberal but overwhelmingly apolitical.
+Across the 5 random-walk steps, the three bots received increasingly different video recommendations. The Right Bot recieved recommendations that were increasingly more conservative, as measured by polarization score. The Left Bot recieved recommendations that were increasingly liberal and the Neutral Bot recieved recommendations that were slightly liberal but overwhelmingly apolitical.
 
 For more see \[[4](images/fig_2_5.jpeg 'Recommendation Trends Across All Trials')\]
 
