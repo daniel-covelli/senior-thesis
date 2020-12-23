@@ -32,7 +32,7 @@ Categorizations for this project were provided by Mark Ledwich and Anna Zaitsev'
 
 For more information on methods, see the _Methods_ section in the [thesis paper](thesis.pdf).
 
-### Findings
+## Findings
 
 #### Left/Right Network Topologies
 
@@ -49,6 +49,8 @@ For more see \[[1](images/fig_7_1_0.jpeg 'All Channels Recommended Across All Tr
 ---
 
 <img src="images/fig_1_4.jpeg" alt="trends" width="600" title="Divergent Recommendation Trends for the Three Bots"/>
+
+Across 5 steps the three bots experienced different te
 
 #### Recommendation Catagory Proportions
 
