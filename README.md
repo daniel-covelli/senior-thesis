@@ -46,7 +46,9 @@ For more see \[[1](images/fig_7_1_0.jpeg 'All Channels Recommended Across All Tr
 
 <img src="images/fig_1_4.jpeg" alt="trends" width="600" title="Divergent Recommendation Trends for the Three Bots"/>
 
-Across 5 steps the three bots experienced different te
+Across 5 steps the three bots recieved increasingly polar content recommendations. The Right Bot recieved recommendations that were increasingly more conservative, as measured by polarization score. The Left Bot recieved recommendations that were increasingly liberal and the Neutral Bot recieved recommendations that were slightly liberal but overwhelmingly apolitical.
+
+For more see \[[4](images/fig_2_5.jpeg 'Recommendation Trends Across All Trials')\]
 
 ### Recommendation Catagory Proportions
 
