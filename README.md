@@ -54,9 +54,9 @@ For more see \[[4](images/fig_2_5.jpeg 'Recommendation Trends Across All Trials'
 
 <img src="images/fig_3_3_2.jpeg" width="600" alt="proportions" title="Neutral Bot Recommendation Proportions"/>
 
-The three bots also encountered varying proportions of political content. Most recommendations for the Right Bot went to Neutral, Right, or Far Right videos. The Left Bot received most recommendations to Neutral, Left, and Far Left videos. The Neutral Bot (as seen above) received recommendations between all categories, with most recommendations occuring between Neutral videos.
+The three bots also encountered varying proportions of political content recommendations. Most recommendations for the Right Bot went to Neutral, Right, or Far Right videos. The Left Bot received most recommendations between Neutral, Left, and Far Left videos. The Neutral Bot (above) received recommendations between all categories, with most recommendations occuring between Neutral videos.
 
-For more see \[[5](images/fig_3_1_2.jpeg 'Left Bot Recommendation Proportions')\] \[[6](images/fig_3_2_2.jpeg 'Right Bot Recommendation Proportions')\].
+For more see \[[5](images/fig_3_1_2.jpeg 'Left Bot Recommendation Proportions')\] \[[6](images/fig_3_2_2.jpeg 'Right Bot Recommendation Proportions')\] \[[7](images/fig_6_2.jpeg 'Proportion Percentages')\].
 
 ## Discussion
 
