@@ -32,11 +32,9 @@ Categorizations for this project were provided by Mark Ledwich and Anna Zaitsev'
 
 For more information on methods, see the _Methods_ section in the [thesis paper](thesis.pdf).
 
-## Findings -------
+## Findings
 
 #### Left/Right Network Topologies
-
----
 
 <img src="images/fig_7_0_1.jpeg" alt="topologies" width="600" title="Top 20 Channels Recommended Across All Trials"/>
 
