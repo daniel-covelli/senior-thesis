@@ -2,7 +2,7 @@
 
 Recommending Descent is my senior research thesis for UC Berkeley's Interdisiplanry Studies major. The project attempts to characterize the effect that political bias has on YouTube's video recommendation algorithm. This project uses three autonomous agents, or bots, to mock the behavior of a right-leaning, left-leaning, and apolitical YouTube user. The bots access videos through YouTube's [Data API](https://developers.google.com/youtube/v3). This repository contains all the code and data used for the project.
 
-📑 [Thesis Paper](thesis.pdf) &nbsp; &nbsp;
+📑 [Paper](thesis.pdf) &nbsp; &nbsp;
 📊 [Data](data) &nbsp; &nbsp;
 🤖 [Code](script) &nbsp; &nbsp;
 ✏️ [Works Cited](https://www.notion.so/b6f79f445d534b1fa2384c4d74b3d416?v=2fdc95e61e5646c6b9c231844f1fde45) &nbsp; &nbsp;
