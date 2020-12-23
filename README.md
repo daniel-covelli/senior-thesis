@@ -34,7 +34,7 @@ For more information on methods, see the _Methods_ section in the [thesis paper]
 
 ## Findings
 
-#### Left/Right Network Topologies
+### Left/Right Network Topologies
 
 <img src="images/fig_7_0_1.jpeg" alt="topologies" width="600" title="Top 20 Channels Recommended Across All Trials"/>
 
@@ -42,13 +42,13 @@ This project finds significant differences in the kinds of recommendations offer
 
 For more see \[[1](images/fig_7_1_0.jpeg 'All Channels Recommended Across All Trials')\] \[[2](images/fig_7_2_1.jpeg 'Top 40 Channels Recommended to the Right Bot')\] \[[3](images/fig_7_3_1.jpeg 'Top 40 Channels Recommended to the Left Bot')\].
 
-#### Divergent Recommendation Trends
+### Divergent Recommendation Trends
 
 <img src="images/fig_1_4.jpeg" alt="trends" width="600" title="Divergent Recommendation Trends for the Three Bots"/>
 
 Across 5 steps the three bots experienced different te
 
-#### Recommendation Catagory Proportions
+### Recommendation Catagory Proportions
 
 <img src="images/fig_3_2.png" alt="proportions"/>
 
