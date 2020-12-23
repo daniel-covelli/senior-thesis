@@ -54,21 +54,11 @@ For more see \[[4](images/fig_2_5.jpeg 'Recommendation Trends Across All Trials'
 
 <p text-align="center">
   <img src="images/fig_3_1_2.jpeg" width="400" />
-  <img src="images/fig_3_2_2.jpeg" width="400" /> 
-  <img src="images/fig_3_3_2.jpeg" width="400" />
+  
 </p>
 
-<div class="row">
-  <div class="column">
-    <img src="images/fig_3_1_2.jpeg" alt="Snow" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="images/fig_3_2_2.jpeg" alt="Forest" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="images/fig_3_3_2.jpeg" alt="Mountains" style="width:50%">
-  </div>
-</div>
+<!-- <img src="images/fig_3_2_2.jpeg" width="400" />
+  <img src="images/fig_3_3_2.jpeg" width="400" /> -->
 
 ## Discussion
 
