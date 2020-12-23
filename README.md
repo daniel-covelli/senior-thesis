@@ -52,10 +52,10 @@ For more see \[[4](images/fig_2_5.jpeg 'Recommendation Trends Across All Trials'
 
 ### Recommendation Catagory Proportions
 
-<p float="left">
-  <img src="images/fig_3_1_2.jpeg" width="300" />
-  <img src="images/fig_3_2_2.jpeg" width="300" /> 
-  <img src="images/fig_3_3_2.jpeg" width="300" />
+<p float="center">
+  <img src="images/fig_3_1_2.jpeg" width="400" />
+  <img src="images/fig_3_2_2.jpeg" width="400" /> 
+  <img src="images/fig_3_3_2.jpeg" width="400" />
 </p>
 
 ## Discussion
