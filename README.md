@@ -3,8 +3,10 @@
 Recommending Descent is my senior research thesis for UC Berkeley's Interdisiplanry Studies major. The project attempts to characterize the effect that political bias has on YouTube's video recommendation algorithm. This project uses three autonomous agents, or bots, to mock the behavior of a right-leaning, left-leaning, and apolitical YouTube user. The bots access videos through YouTube's [Data API](https://developers.google.com/youtube/v3). This repository contains all the code and data used for the project.
 
 📑 [Thesis Paper](thesis.pdf) &nbsp; &nbsp;
+📊[Data](data) &nbsp; &nbsp;
+🤖[Code](script) &nbsp; &nbsp;
 ✏️ [Works Cited](https://www.notion.so/b6f79f445d534b1fa2384c4d74b3d416?v=2fdc95e61e5646c6b9c231844f1fde45) &nbsp; &nbsp;
-📊 [Recfluence](https://github.com/markledwich2/Recfluence)
+🗂 [Recfluence](https://github.com/markledwich2/Recfluence)
 
 ## Abstract
 
@@ -40,7 +42,7 @@ For more information on methods, see the _Methods_ section in the [thesis paper]
 
 This project finds significant differences in the kinds of recommendations offered to the Right, Left, and Neutral Bots. The majority of recommendations encountered by the Right Bot were to Fox News and Fox Business, with a small amount going to channels in the "Intellectual Dark Web". For the Left Bot, the majority of recommendations were to a more diverse pool of left-leaning media outlets like MSNBC, VOX, and late night shows. The Neutral Bot encountered a host of apolitcal and moderatelly political channels.
 
-For more analysis see \[[1](images/fig_7_1_0.jpeg)\] \[[2](images/fig_7_2_1.jpeg)\] \[[3](images/fig_7_3_1.jpeg)\].
+For more see \[[1](images/fig_7_1_0.jpeg)\] \[[2](images/fig_7_2_1.jpeg)\] \[[3](images/fig_7_3_1.jpeg)\].
 
 #### Divergent Recommendation Trends
 
