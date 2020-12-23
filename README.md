@@ -58,10 +58,6 @@ The three bots also encountered varying proportions of political content recomme
 
 For more see \[[5](images/fig_3_1_2.jpeg 'Left Bot Recommendation Proportions')\] \[[6](images/fig_3_2_2.jpeg 'Right Bot Recommendation Proportions')\] \[[7](images/fig_6_2.jpeg 'Recommendation Percentages')\].
 
-## Discussion
+## License
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Read me coming soon...
-
-[Link](https://colab.research.google.com/gist/daniel-covelli/d1201ff9e42e4ab39ef184b3cc10f091/demo.ipynb#offline=true&sandboxMode=false)
+[MIT](https://choosealicense.com/licenses/mit/)
