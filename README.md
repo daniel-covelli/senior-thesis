@@ -32,7 +32,7 @@ Categorizations for this project were provided by Mark Ledwich and Anna Zaitsev'
 
 For more information on methods, see the _Methods_ section in the [thesis paper](thesis.pdf).
 
-## Findings <br/>
+## Findings -------
 
 #### Left/Right Network Topologies
 
