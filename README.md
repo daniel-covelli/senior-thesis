@@ -58,6 +58,18 @@ For more see \[[4](images/fig_2_5.jpeg 'Recommendation Trends Across All Trials'
   <img src="images/fig_3_3_2.jpeg" width="400" />
 </p>
 
+<div class="row">
+  <div class="column">
+    <img src="images/fig_3_1_2.jpeg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/fig_3_2_2.jpeg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/fig_3_3_2.jpeg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
 ## Discussion
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
