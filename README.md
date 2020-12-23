@@ -44,19 +44,15 @@ For more see \[[1](images/fig_7_1_0.jpeg 'All Channels Recommended Across All Tr
 
 #### Divergent Recommendation Trends
 
----
-
 <img src="images/fig_1_4.jpeg" alt="trends" width="600" title="Divergent Recommendation Trends for the Three Bots"/>
 
 Across 5 steps the three bots experienced different te
 
 #### Recommendation Catagory Proportions
 
----
-
 <img src="images/fig_3_2.png" alt="proportions"/>
 
-### Discussion
+## Discussion
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
