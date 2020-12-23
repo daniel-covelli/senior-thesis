@@ -26,7 +26,9 @@ Each of the three bots in this paper use a similar random walk algorithm. The al
 6. <b>Repeat</b>: Catagorize, pick, collect, and request 4 more times
 </pre>
 
-For more information on the methods used in this repository, reference the methods section of the [thesis paper](thesis.pdf). Categorizations for this project were provided by Mark Ledwich and Anna Zaitsev's, [Recfluence Channel Classification Data Set](https://github.com/markledwich2/Recfluence#data).
+Categorizations for this project were provided by Mark Ledwich and Anna Zaitsev's, [Recfluence Channel Classification Data Set](https://github.com/markledwich2/Recfluence#data). Each channel was also given a polarization score, or P-Score, representing the left/right-ness of each channel. Larger p-scores were given to more conservative channels and lower p-scores were given to more liberal channels.
+
+For more information on the methods, see the **_Methods_** section of the [thesis paper](thesis.pdf).
 
 ### Findings
 
