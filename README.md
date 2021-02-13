@@ -6,7 +6,7 @@ Recommending Descent is my senior research thesis for UC Berkeley's Interdisipla
 📊 [Data](data) &nbsp; &nbsp;
 🤖 [Code](script) &nbsp; &nbsp;
 ✏️ [Works Cited](https://www.notion.so/b6f79f445d534b1fa2384c4d74b3d416?v=2fdc95e61e5646c6b9c231844f1fde45) &nbsp; &nbsp;
-🗂 [Recfluence](https://github.com/markledwich2/Recfluence)
+🗂 [Recfluence Classifications](https://github.com/markledwich2/Recfluence)
 
 ## Abstract
 
