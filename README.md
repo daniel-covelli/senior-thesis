@@ -21,11 +21,11 @@ Each of the three bots in this project use a similar random-walk algorithm. The 
 
 <pre>
 1. <b>Search</b>: Enter search query for a list of starting videos
-2. <b>Categorize</b>: Catagorize each video based on its political content
-3. <b>Pick</b>: Pick the video with greatest level of favorable political bias
-4. <b>Collect</b>: Collect meta-data for videos
+2. <b>Collect</b>: Collect meta-data for videos
+3. <b>Categorize</b>: Catagorize each video based on its political content
+4. <b>Pick</b>: Pick the video with greatest level of favorable political bias
 5. <b>Request</b>: Request 10 recommendations from the selected video
-6. <b>Repeat</b>: Catagorize, pick, collect, and request 4 more times
+6. <b>Repeat</b>: Collect, categorize, pick, and request 4 more times
 </pre>
 
 Categorizations for this project were provided by Mark Ledwich and Anna Zaitsev's, [Recfluence Channel Classification Data Set](https://github.com/markledwich2/Recfluence#data). Each channel was also given a polarization score, or P-Score, representing the left/right-ness of each channel. Larger p-scores were given to more conservative channels and lower p-scores were given to more liberal channels.
